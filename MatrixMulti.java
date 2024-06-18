@@ -4,7 +4,7 @@ Date: June 14, 2024
 
 Matrix Multiplication
    - Problem: Write a method that takes two 2D arrays (matrices) and returns their product. Assume the matrices are compatible for multiplication.
-   - Example: For arrays `[[1, 2], [3, 4]]` and `[[5, 6], [7, 8]]`, the method should return `[[19, 22], [43, 50]]`.
+   - Example: For arrays `[[1, 2], [3, 4]]` and `[[5, 6], [7, 8]]`, the method should return `[[5, 12], [21, 32]]`.
 */
 
 public class MatrixMulti {
